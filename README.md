@@ -1,2 +1,2 @@
-# Movie-Recommendation-Page
-It is a web page that according to the genre of movies you like, will tell you which movie you should watch.
+# Projects of Christian Vela Pasillas through the years
+In this repository I have some personal projects and team projects.
