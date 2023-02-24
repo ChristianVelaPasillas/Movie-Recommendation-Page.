@@ -1,2 +1,2 @@
-# Projects of Christian Vela Pasillas through the years
-In this repository I have some personal projects and team projects.
+# Movie-Recommendation-Page
+In this repository, I have a team project called Movie Recommendation Page, in which according to people's favorite movie genre it tells you which movie you should watch.
